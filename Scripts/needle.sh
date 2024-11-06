@@ -8,7 +8,7 @@ export PATH="/User/bedops/bin:$PATH"
 
 INPUT_FILE=""  # Path to txt file with  data about GENE_ID,	STRAND,	SIZE
 MOTIF_FASTA=""  # Path to motif FASTA file which we align with promoter DNA of every gene
-OUTPUT_DIR="/Users/eugenianikonorova/Documents/Deryabin_prj/Search/inverted_forward"  # Directory to save alignment results
+OUTPUT_DIR=""  # Directory to save alignment results
 
 # Create output directory if it doesn't exist
 mkdir -p "$OUTPUT_DIR"
