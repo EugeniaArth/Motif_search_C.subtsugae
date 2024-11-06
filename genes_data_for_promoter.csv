@@ -1,0 +1,84 @@
+﻿ORF;Gene name;Product description;Exponential sample expression;‚ÄúQuorum Sensing‚Äù sample expression;Log2 (fold change)
+U6115_RS04640;;HAD-IB family hydrolase;80,45;46715,15;9,1777
+U6115_RS04635;;AfsA-related hotdog domain-containing protein;227,75;111013,08;8,9269
+U6115_RS04645;;DUF2165 family protein;81,6;29104,7;8,4833
+U6115_RS04650;;MarR family transcriptional regulator;82,29;27891,04;8,3998
+U6115_RS04660;;HlyD family efflux transporter periplasmic adaptor subunit;241,02;78278,93;8,344
+U6115_RS04655;;efflux transporter outer membrane subunit;169,53;51325,66;8,2401
+U6115_RS04630;;hypothetical protein;463,24;90275,91;7,6056
+U6115_RS04665;;DHA2 family efflux MFS transporter permease subunit;505,29;75629,69;7,2257
+U6115_RS16120;;fucose-binding lectin II;1206,95;64464,05;5,7393
+U6115_RS00140;;SDR family oxidoreductase;308,96;14269,74;5,5261
+U6115_RS15180;;DUF3138 family protein;638,68;26856,19;5,3953
+U6115_RS13255;;DUF1842 domain-containing protein;247,45;9744,09;5,2992
+U6115_RS08065;;tryptophan hydroxylase;739,89;29065,83;5,2973
+U6115_RS08060;;NAD(P)/FAD-dependent oxidoreductase;505,23;19786,24;5,293
+U6115_RS00160;;FAD-binding oxidoreductase;239,46;9032,96;5,2337
+U6115_RS00145;;MFS transporter;352,1;12816,07;5,1849
+U6115_RS13250;;DUF1842 domain-containing protein;318,76;11303,45;5,148
+U6115_RS08070;vioE;violacein biosynthesis enzyme VioE;424,25;15023,6;5,1455
+U6115_RS00150;;cupin domain-containing protein;168,27;5722,99;5,0879
+U6115_RS14870;;hypothetical protein;193,55;6526,27;5,0729
+U6115_RS14745;;hypothetical protein;35,72;1204,11;5,0607
+U6115_RS13245;;DUF1843 domain-containing protein;78,56;2425,74;4,9472
+U6115_RS14875;;hypothetical protein;23,64;717,12;4,9079
+U6115_RS14895;;hypothetical protein;62,7;1760,16;4,8166
+U6115_RS03985;;nuclear transport factor 2 family protein;426,8;10029,22;4,5549
+U6115_RS04815;;ABC transporter ATP-binding protein;739,58;17230,47;4,5431
+U6115_RS14880;;capsid cement protein;21,49;503,9;4,5344
+U6115_RS00130;;acyltransferase;265,58;6104,15;4,5223
+U6115_RS14740;;hypothetical protein;63,99;1474,44;4,5138
+U6115_RS14735;;hypothetical protein;77,15;1750,4;4,5112
+U6115_RS04155;;DUF1842 domain-containing protein;3578,32;76174,05;4,4121
+U6115_RS06250;;hypothetical protein;4504,26;84702,2;4,2331
+U6115_RS10635;;hypothetical protein;1021,42;19171,38;4,2317
+U6115_RS04830;;hemin-degrading factor;2186,39;40476,44;4,211
+U6115_RS14435;;CoA-acylating methylmalonate-semialdehyde dehydrogenase;3465,35;63003,03;4,1846
+U6115_RS14725;;HU family DNA-binding protein;199,18;3597,91;4,1771
+U6115_RS14865;;peptidase;264,97;4716,73;4,1546
+U6115_RS04825;;ABC transporter substrate-binding protein;732,78;12679,79;4,1139
+U6115_RS09710;;hypothetical protein;1044,89;17971,71;4,1047
+U6115_RS05110;;porin;5085,22;86187,67;4,0832
+U6115_RS08055;vioB;iminophenyl-pyruvate dimer synthase VioB;522,94;8812,35;4,0771
+U6115_RS00135;;flavin reductase family protein;222,29;3654,83;4,038
+U6115_RS08050;;FAD-dependent oxidoreductase;463,89;7559,13;4,0287
+U6115_RS04835;;TonB-dependent hemoglobin/transferrin/lactoferrin family receptor;4640,67;75458,91;4,0235
+U6115_RS00165;;GNAT family N-acetyltransferase;463,5;7136,79;3,9441
+U6115_RS14885;;DUF1320 domain-containing protein;70,19;1068,1;3,927
+U6115_RS14900;;phage tail sheath subtilisin-like domain-containing protein;536,01;8070,86;3,9128
+U6115_RS15185;;ABC transporter permease subunit;326,83;4547,26;3,7998
+U6115_RS04820;;iron ABC transporter permease;848,47;11671,63;3,7822
+U6115_RS14890;;Gp37 family protein;98,16;1330,75;3,7638
+U6115_RS03980;;zinc-binding alcohol dehydrogenase family protein;879,26;11674,85;3,7306
+U6115_RS14440;;acyl-CoA dehydrogenase family protein;1935,71;24902,77;3,686
+U6115_RS15190;;ABC transporter permease subunit;492,23;6317,35;3,681
+U6115_RS00170;;TetR/AcrR family transcriptional regulator;1965,06;23975,73;3,6087
+U6115_RS00125;;efflux RND transporter periplasmic adaptor subunit;349,14;4248,2;3,6033
+U6115_RS14770;;hypothetical protein;120,58;1378,26;3,5205
+U6115_RS08085;;iron-containing redox enzyme family protein;142,96;1580,13;3,4674
+U6115_RS14760;;hypothetical protein;234,73;2538,54;3,4344
+U6115_RS14765;;helix-turn-helix domain-containing protein;58,59;615,25;3,3818
+U6115_RS15195;;polyamine ABC transporter substrate-binding protein;2043,73;20126,94;3,2995
+U6115_RS14730;;DUF3164 family protein;501,18;4885,54;3,2871
+U6115_RS08080;;iron-containing redox enzyme family protein;275,44;2441,31;3,1521
+U6115_RS08090;;iron-containing redox enzyme family protein;167,6;1485,12;3,143
+U6115_RS00155;;acyl-CoA dehydrogenase family protein;1725,89;15198,27;3,1384
+U6115_RS14430;;3-hydroxybutyryl-CoA dehydrogenase;3038,35;23586,04;2,9567
+U6115_RS08095;;aminotransferase class III-fold pyridoxal phosphate-dependent enzyme;113,63;828,41;2,8803
+U6115_RS00120;;multidrug efflux RND transporter permease subunit;1343,62;9769,1;2,8617
+U6115_RS14905;;phage major tail tube protein;422,35;3046,66;2,848
+U6115_RS04840;;hemin uptake protein HemP;321,27;2261,46;2,819
+U6115_RS04675;gabT;4-aminobutyrate--2-oxoglutarate transaminase;7314,17;51040,84;2,8028
+U6115_RS14450;;enoyl-CoA hydratase/isomerase family protein;3554,82;24187,79;2,7663
+U6115_RS00115;;efflux transporter outer membrane subunit;645,59;4224,37;2,7085
+U6115_RS04670;gabD;NADP-dependent succinate-semialdehyde dehydrogenase;6078,57;39457,66;2,6985
+U6115_RS14750;;AAA family ATPase;651,13;4112,15;2,6593
+U6115_RS14455;mmsB;3-hydroxyisobutyrate dehydrogenase;2790,71;16944,93;2,602
+U6115_RS13260;;GDL motif peptide-associated radical SAM/SPASM maturase;473,65;2816,89;2,5702
+U6115_RS08075;;heme-binding protein;199,57;1176,74;2,5606
+U6115_RS00175;;MBL fold metallo-hydrolase;2200,07;11639,56;2,4034
+U6115_RS14445;;enoyl-CoA hydratase;3273,61;16803,76;2,3599
+U6115_RS05105;;helix-hairpin-helix domain-containing protein;4158,96;20428,8;2,2966
+U6115_RS14755;;DDE-type integrase/transposase/recombinase;686,45;3373,34;2,2952
+U6115_RS14460;;prolyl oligopeptidase family serine peptidase;10177,88;45560,65;2,1624
+U6115_RS06245;;GNAT family N-acetyltransferase;338,46;1464,6;2,1132
