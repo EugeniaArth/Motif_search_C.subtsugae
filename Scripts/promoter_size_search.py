@@ -1,7 +1,7 @@
 #This script performs search of direction of gene transcription, calculate the possible size of  upstream zone
 #where the promoter can be located and data about possible overlaps. For search we need annotation in gff and
 #gene_data.csv with the list of genes (ORF)
-#It will add additional columns to left, resulted file name is "Gene_Promoter_Table_with_Overlap.csv"
+#It will add additional columns to right, resulted file name is "Gene_Promoter_Table_with_Overlap.csv"
 #It takes into account the strand at which the gene is located - if the gene on "+", it searches the promoter before the gene,
 #on the left side from TSS
 #If the gene is located on "-" strans, it searches promoter at the rigth side from TSS
